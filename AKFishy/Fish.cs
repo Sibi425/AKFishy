@@ -10,9 +10,9 @@ namespace AKFishy
     {
         String name;
         String location;
-        String Day;
-        String loot;
-
-
+        String day;
+        String bait;
+        String time;
+        String swarm;
     }
 }
